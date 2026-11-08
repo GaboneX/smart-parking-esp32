@@ -13,7 +13,7 @@ Kompleksowy, w pełni zautomatyzowany model inteligentnego parkingu na 3 stanowi
 * **Detekcja pojazdów:** 
   * 3x Czujniki zajętości miejsc parkingowych
   * Optyczne czujniki podczerwieni IR (kontrola wjazdu, wyjazdu oraz zamykania automatycznego)
-* **Sygnalizacja:** Fizyczna dioda LED (wskaźnik pełnego parkingu) oraz przewody połączeniowe / płytki stykowe
+* **Inne:** Przewody połączeniowe / płytki stykowe
 
 ### 💻 Oprogramowanie:
 * **Środowisko:** Arduino IDE
@@ -24,7 +24,7 @@ Kompleksowy, w pełni zautomatyzowany model inteligentnego parkingu na 3 stanowi
 
 ## 📌 Mapa połączeń (GPIO ESP32)
 
-| Komponent / Periferium | Pin ESP32 (GPIO) | Opis / Funkcja |
+| Komponent / Peryferium | Pin ESP32 (GPIO) | Opis / Funkcja |
 | :--- | :---: | :--- |
 | **RFID - SDA (SS)** | GPIO 22 | Wybór urządzenia SPI (Chip Select) |
 | **RFID - RST** | GPIO 25 | Pin resetowania czytnika RFID |
@@ -35,7 +35,6 @@ Kompleksowy, w pełni zautomatyzowany model inteligentnego parkingu na 3 stanowi
 | **Czujnik Miejsca 1** | GPIO 14 | Stan pierwszego stanowiska |
 | **Czujnik Miejsca 2** | GPIO 26 | Stan drugiego stanowiska |
 | **Czujnik Miejsca 3** | GPIO 27 | Stan trzeciego stanowiska |
-| **Fizyczna dioda (Parking pełny)** | GPIO 5 | Sygnalizacja optyczna braku miejsc |
 
 ---
 
@@ -65,9 +64,9 @@ Projekt wykorzystuje platformę Blynk do wizualizacji stanu parkingu w czasie rz
 
 * **Krok 2: Konfiguracja Datastreams (Piny wirtualne)**
   <br><img width="912" height="348" alt="Datastreams" src="https://github.com/user-attachments/assets/6dc585bd-d956-4fd1-bf9d-4dc1b4e77cd7" />
-  * `V0` / `V3` – Miejsce 1 (Zielona / Czerwona dioda)
-  * `V1` / `V4` – Miejsce 2 (Zielona / Czerwona dioda)
-  * `V2` / `V5` – Miejsce 3 (Zielona / Czerwona dioda)
+  * `V0` / `V3` – Miejsce 1 (Zielona / Czerwona dioda)[cite: 2]
+  * `V1` / `V4` – Miejsce 2 (Zielona / Czerwona dioda)[cite: 2]
+  * `V2` / `V5` – Miejsce 3 (Zielona / Czerwona dioda)[cite: 2]
 
 * **Krok 3: Web / Mobile Dashboard**
   <br><img width="945" height="362" alt="Dashboard" src="https://github.com/user-attachments/assets/03c05bff-092c-42a4-8b53-77732d39b9e7" />
