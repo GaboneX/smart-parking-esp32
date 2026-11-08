@@ -73,7 +73,7 @@ Projekt wykorzystuje platformę Blynk do wizualizacji stanu parkingu w czasie rz
 
 ---
 
-## 📸 Dokumentacja fotograficzna układu
+## 📸 Zdjęcia układu
 
 <img width="2880" height="2160" alt="Hardware 1" src="https://github.com/user-attachments/assets/0c3c22a4-9568-4f8d-98f5-e81c7fc7e88c" />
 <img width="1213" height="945" alt="Hardware 2" src="https://github.com/user-attachments/assets/c4f302ed-987a-415d-bbe6-7f8253cdde18" />
