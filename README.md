@@ -22,7 +22,7 @@ Kompleksowy, w pełni zautomatyzowany model inteligentnego parkingu na 3 stanowi
 
 ---
 
-## 📌 Mapa połączeń (GPIO ESP32)
+## 📌 Lista połączeń (GPIO ESP32)
 
 | Komponent / Peryferium | Pin ESP32 (GPIO) | Opis / Funkcja |
 | :--- | :---: | :--- |
