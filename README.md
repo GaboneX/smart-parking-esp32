@@ -44,7 +44,7 @@ Kompleksowy, w pełni zautomatyzowany model inteligentnego parkingu na 3 stanowi
    * Kierowca przykłada kartę do czytnika. System weryfikuje UID w bazie uprawnionych użytkowników.
    * **Karta Zarządcy (`A9 A5 63 06`):** Posiada tryb priorytetowy – zawsze otwiera szlaban, ignorując aktualny limit zajętych miejsc.
    * **Karty Standardowe:** Zezwalają na wjazd pod warunkiem, że zajętych jest mniej niż 3 miejsca. Przy pełnym parkingu wjazd jest blokowany.
-2. **Automatyka bramy i bezpieczeństwo:**
+2. **Automatyzacja bramy i bezpieczeństwo:**
    * **Wjazd:** Po autoryzacji szlaban się otwiera. Auto wjeżdża, mija czujnik wewnętrzny (`IR_AFTER_GATE`), system odczekuje 3 sekundy i automatycznie zamyka szlaban.
    * **Wyjazd:** Auto podjeżdża od środka, aktywując czujnik wewnętrzny (`IR_AFTER_GATE`), co otwiera szlaban. Po wyjeździe pojazd mija czujnik zewnętrzny (`IR_BEFORE_GATE`), system odczekuje 3 sekundy i zamyka szlaban.
 3. **Monitorowanie stanowisk:**
