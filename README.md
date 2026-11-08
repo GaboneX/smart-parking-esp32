@@ -55,8 +55,8 @@ Kompleksowy, w pełni zautomatyzowany model inteligentnego parkingu na 3 stanowi
 ## ☁️ Integracja z aplikacją Blynk IoT
 
 Projekt wykorzystuje platformę Blynk do wizualizacji stanu parkingu w czasie rzeczywistym:
-* **Template ID:**
-* **Template Name:**
+* **Template ID**
+* **Template Name**
 
 ### Konfiguracja w Blynk:
 * **Krok 1: Tworzenie szablonu (Template)**
