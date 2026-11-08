@@ -64,9 +64,9 @@ Projekt wykorzystuje platformę Blynk do wizualizacji stanu parkingu w czasie rz
 
 * **Krok 2: Konfiguracja Datastreams (Piny wirtualne)**
   <br><img width="912" height="348" alt="Datastreams" src="https://github.com/user-attachments/assets/6dc585bd-d956-4fd1-bf9d-4dc1b4e77cd7" />
-  * `V0` / `V3` – Miejsce 1 (Zielona / Czerwona dioda)[cite: 2]
-  * `V1` / `V4` – Miejsce 2 (Zielona / Czerwona dioda)[cite: 2]
-  * `V2` / `V5` – Miejsce 3 (Zielona / Czerwona dioda)[cite: 2]
+  * `V0` / `V3` – Miejsce 1 (Zielona / Czerwona dioda)
+  * `V1` / `V4` – Miejsce 2 (Zielona / Czerwona dioda)
+  * `V2` / `V5` – Miejsce 3 (Zielona / Czerwona dioda)
 
 * **Krok 3: Web / Mobile Dashboard**
   <br><img width="945" height="362" alt="Dashboard" src="https://github.com/user-attachments/assets/03c05bff-092c-42a4-8b53-77732d39b9e7" />
