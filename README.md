@@ -70,9 +70,10 @@ Zarządzanie bramą:
 
 7. Zdjęcia projektu
    <img width="2880" height="2160" alt="IMG_3239" src="https://github.com/user-attachments/assets/0c3c22a4-9568-4f8d-98f5-e81c7fc7e88c" />
+   <img width="1213" height="945" alt="image" src="https://github.com/user-attachments/assets/c4f302ed-987a-415d-bbe6-7f8253cdde18" />
    <img width="1283" height="741" alt="image" src="https://github.com/user-attachments/assets/70e96df1-7b0a-46ce-9b8e-b6521a6db314" />
    <img width="1400" height="945" alt="image" src="https://github.com/user-attachments/assets/ee95fe67-f8be-4e82-8fcc-80e44ece0ce6" />
-   <img width="1213" height="945" alt="image" src="https://github.com/user-attachments/assets/c4f302ed-987a-415d-bbe6-7f8253cdde18" />
+
 
 
 
